@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://gnegnoli.altervista.org/"><img src="https://img.shields.io/badge/Sito-gnegnoli.altervista.org-b26bff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0812" alt="Sito web"></a>
   <a href="mailto:acavallaro.ge@gmail.com"><img src="https://img.shields.io/badge/Email-acavallaro.ge%40gmail.com-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0812" alt="Email"></a>
   <a href="https://krypta.altervista.org/"><img src="https://img.shields.io/badge/Krypta_Life_Counter-web_app-00f0ff?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0a0812" alt="Krypta Life Counter"></a>
   <a href="https://tigulliomagicteam.it/"><img src="https://img.shields.io/badge/Tigullio_Magic_Team-community-E9560D?style=for-the-badge&logoColor=white&labelColor=0a0812" alt="Tigullio Magic Team"></a>
@@ -27,6 +28,7 @@ const gnegnoli = {
   building: ['app web & mobile', 'plugin JetBrains', 'tool per sviluppatori'],
   community: 'Tigullio Magic Team · Krypta Legacy',
   askMeAbout: ['Magic: The Gathering', 'PWA offline-first', 'IDE plugins'],
+  website: 'https://gnegnoli.altervista.org',
 };
 ```
 
